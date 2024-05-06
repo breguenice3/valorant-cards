@@ -1,4 +1,4 @@
-https://valorant-cards-pearl.vercel.app/
+![Design preview for the valorant cards api](./valorantCardsPreview.jpg)
 
 #Projeto com cards dos agentes do valorant
 
